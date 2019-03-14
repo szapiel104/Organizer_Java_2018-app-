@@ -1,0 +1,29 @@
+<?xml version = "1.0"?>
+<class>
+   <meeting guid = "f9ab2cfe-5c36-4897-be8b-d8d3123e6915">
+      <title>Meeting 1</title>
+      <place>Lodz</place>
+      <description>Example description 1</description>
+      <important>Yes</important>
+	  <date>May 20 2018</date>
+	  <alarmOffset>20</alarmOffset>
+   </meeting>
+   
+   <meeting guid = "e3394f35-c389-49fe-b492-c6f015dd6770">
+      <title>Meeting 2</title>
+      <place>Lodz</place>
+      <description>Example description 2</description>
+      <important>No</important>
+	  <date>May 20 2018</date>
+	  <alarmOffset>20</alarmOffset>
+   </meeting>
+   
+   <meeting guid = "55d3a49b-6892-4007-ba25-82602155e8c6">
+      <title>Meeting 3</title>
+      <place>Lodz</place>
+      <description>Example description 3</description>
+      <important>Yes</important>
+	  <date>May 20 2018</date>
+	  <alarmOffset>20</alarmOffset>
+   </meeting>
+</class>
